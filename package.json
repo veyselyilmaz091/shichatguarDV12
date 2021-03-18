@@ -1,0 +1,26 @@
+{
+  "name": "shichatguard",
+  "version": "0.0.1",
+  "description": "shichatguar",
+  "main": "shichatguard.js",
+  "scripts": {
+    "start": "node shichatguard.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord-anti-spam-tr": "^0.7.4",
+    "discord.js": "^12.2.0",
+    "moment": "^2.29.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Piece",
+    "Serendia"
+  ]
+}
